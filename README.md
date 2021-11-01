@@ -6,8 +6,8 @@ I do my projects with passion and my own motivation, not on request.
 
 Here are some places where you can contact me:
 - Website: http://freeddev.uk.to
-- Discord: @FreedTapstry21#0041 (Only for urgent messages. Thank you.)
 - Twitter: @ItsBoGames_YT
+- Discord: @FreedTapstry21#0041 (Only for urgent messages. Thank you.)
 
 BTW, I'm pretty new to Git so don't excpect to much goodness.  
 
