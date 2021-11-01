@@ -1,6 +1,6 @@
 Hey there! I'm Freed!
 
-I do stuff with technology (Mostly software). 
+I do stuff with technology (Mostly software).   
 I do a lot of things with Arduino's and Raspberry pi's. 
 I do my projects with passion and my own motivation, not on request.  
 
