@@ -9,7 +9,7 @@ Here are some places where you can contact me:
 - Twitter: @ItsBoGames_YT
 - Discord: @FreedTapstry21#0041 (Only for urgent messages. Thank you.)
 
-BTW, I'm pretty new to Github so don't excpect to much goodness.  
+BTW, I'm pretty new to GitHub so don't excpect to much goodness.  
 
 Have a nice day!
 - FreedTapstry21
