@@ -1,7 +1,6 @@
-Hey there! I'm Freed!
+`println!("Hey there! I'm Freed!");`
 
-I do stuff with technology (Mostly software).
-I make my projects on my own.
-I don't do commisions.
+I'm a 15 year old developer who likes to tinker with technology.
+If you wanna know more about me then don't forget to check out my website `https://freeddev.org`.
 
-Have a nice day! :D
+Have an amazing day!
